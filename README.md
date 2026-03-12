@@ -49,7 +49,7 @@
 
 Бот уже работает и ждет вас! Просто перейдите по ссылке и начните общение:
 
-### [👉 Начать использование в Telegram](https://t.me/dvgupsSchedule_bot)
+### [👉 Начать использование в Telegram](https://t.me/FreeDVGUPS_bot)
 
 ---
 
@@ -124,7 +124,7 @@ Integration with other university services to create a unified digital ecosystem
 
 The bot is already running and waiting for you! Just follow the link and start chatting:
 
-### [👉 Start Using in Telegram](https://t.me/dvgupsSchedule_bot)
+### [👉 Start Using in Telegram](https://t.me/FreeDVGUPS_bot)
 
 ---
 
